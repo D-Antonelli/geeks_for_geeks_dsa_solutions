@@ -12,7 +12,7 @@
 | Sum of Middle Elements of two sorted arrays                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sum_of_middle_elements_of_two_sorted_arrays.js)             | 🟢 |
 | Sum of array                                                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sum_of_array.js)             | 🟢 |
 | Print the left element                                          |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_the_left_over_element.js)             | 🟢 |
-| Frequency of array elements                                     |             |        |
+| Frequency of array elements                                     |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/frequencies_of_limited_range_array_elements.js)          |   🔴     |
 | Multiplication table                                            |             |        |
 | Product of maximum in first array and minimum in second         |             |        |
 | At least two greater element                                    |             |        |
