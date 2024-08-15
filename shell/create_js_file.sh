@@ -11,7 +11,7 @@ while true; do
     touch "${filename}.js"
 
     # Inform the user
-    echo "Created file: ${filename}.js"
+    echo "Created file: javascript/${filename}.js"
 
     # Ask the user if they want to create another file
     read -p "Do you want to create another file? (y/n): " choice
