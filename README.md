@@ -14,7 +14,7 @@
 | Print the left element                                          |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_the_left_over_element.js)             | 🟢 |
 | Frequency of array elements                                     |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/frequencies_of_limited_range_array_elements.js)          |   🔴     |
 | Multiplication table                                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/multiplication_table.js)             | 🟢 |
-| Product of maximum in first array and minimum in second         |             |        |
+| Product of maximum in first array and minimum in second         |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/max_and_min_product.js)             | 🟢 |
 | At least two greater element                                    |             |        |
 | C++ Array (print an element) Set 2                              |             |        |
 | Sub array with given sum (print index range of the subarray)    |             |        |

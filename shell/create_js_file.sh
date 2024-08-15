@@ -8,10 +8,10 @@ while true; do
     filename=$(echo "$input" | tr '[:upper:]' '[:lower:]' | sed 's/ /_/g')
 
     # Create the file with .js extension
-    touch "${filename}.js"
+    touch "javascript/${filename}.js"
 
     # Inform the user
-    echo "Created file: javascript/${filename}.js"
+    echo "Created file: ${filename}.js"
 
     # Ask the user if they want to create another file
     read -p "Do you want to create another file? (y/n): " choice
