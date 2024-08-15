@@ -7,9 +7,9 @@
 |----------------------------------------------------------------| -------- | ------- |
 | Find the minimum and maximum element in an array                                                    |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/min_and_max_in_array.js)           |  🟢   |
 | Find the occurrence of an integer in the array                                                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_the_frequency.js)              |  🟢   |
-| [Find index](https://practice.geeksforgeeks.org/problems/find-index4752/1?page=1&difficulty[]=-2&status[]=unsolved&sortBy=submissions)                                                     |             [javascript](https://github.com/D-Antonelli/mentorship_with_davide/commit/51caa020128b2defad6a4159c516240606243116)   |  🟢   |
-| [Bitonic Point](https://www.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1?page=1&company%5B%5D=Amazon&curated%5B%5D=8&sortBy=submissions)                                                  |                |  |
-| Sum of Middle Elements of two sorted arrays                    |                |  |
+| [Find index](https://practice.geeksforgeeks.org/problems/find-index4752/1?page=1&difficulty[]=-2&status[]=unsolved&sortBy=submissions)                                                     |             [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_index.js)   |  🟢   |
+| [Bitonic Point](https://www.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1?page=1&company%5B%5D=Amazon&curated%5B%5D=8&sortBy=submissions)                                                  |              [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/bitonic_point.js)  | 🟢 | 
+| Sum of Middle Elements of two sorted arrays                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sum_of_middle_elements_of_two_sorted_arrays.js)             | 🟢 |
 | Sum of array                                                   |             |        |
 | Print the left element                                          |                |  |
 | Frequency of array elements                                     |             |        |
