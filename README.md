@@ -2,8 +2,8 @@
 
 | Name                                                           | Solution | Status* |
 |----------------------------------------------------------------| -------- | ------- |
-| Find the minimum and maximum element in an array                                                    |                |     |
-| Find the occurrence of an integer in the array                                                    |                |     |
+| Find the minimum and maximum element in an array                                                    |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/min_and_max_in_array.js)           |  🟢   |
+| Find the occurrence of an integer in the array                                                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_the_frequency.js)              |  🟢   |
 | Find index                                                     |                |     |
 | Bitonic Point                                                  |                |  |
 | Sum of Middle Elements of two sorted arrays                    |                |  |
