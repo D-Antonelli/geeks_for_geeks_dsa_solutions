@@ -10,7 +10,7 @@
 | [Find index](https://practice.geeksforgeeks.org/problems/find-index4752/1?page=1&difficulty[]=-2&status[]=unsolved&sortBy=submissions)                                                     |             [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_index.js)   |  🟢   |
 | [Bitonic Point](https://www.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1?page=1&company%5B%5D=Amazon&curated%5B%5D=8&sortBy=submissions)                                                  |              [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/bitonic_point.js)  | 🟢 | 
 | Sum of Middle Elements of two sorted arrays                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sum_of_middle_elements_of_two_sorted_arrays.js)             | 🟢 |
-| Sum of array                                                   |             |        |
+| Sum of array                                                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sum_of_array.js)             | 🟢 |
 | Print the left element                                          |                |  |
 | Frequency of array elements                                     |             |        |
 | Multiplication table                                            |             |        |
