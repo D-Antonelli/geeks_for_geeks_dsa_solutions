@@ -4,8 +4,8 @@
 |----------------------------------------------------------------| -------- | ------- |
 | Find the minimum and maximum element in an array                                                    |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/min_and_max_in_array.js)           |  🟢   |
 | Find the occurrence of an integer in the array                                                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_the_frequency.js)              |  🟢   |
-| Find index                                                     |                |     |
-| Bitonic Point                                                  |                |  |
+| [Find index](https://practice.geeksforgeeks.org/problems/find-index4752/1?page=1&difficulty[]=-2&status[]=unsolved&sortBy=submissions)                                                     |                |     |
+| [Bitonic Point](https://www.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1?page=1&company%5B%5D=Amazon&curated%5B%5D=8&sortBy=submissions)                                                  |                |  |
 | Sum of Middle Elements of two sorted arrays                    |                |  |
 | Sum of array                                                   |             |        |
 | Print the left element                                          |                |  |
