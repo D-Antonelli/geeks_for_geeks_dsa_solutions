@@ -24,7 +24,7 @@
 | Search in sorted array                                          |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sorted_array_search.js)             | 🟢 |
 | Insert at end of array                                          |             |        |
 | Equilibrium point                                               |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/equilibrium_point.js)          |    🔴    |
-| Left index                                                      |             |        |
+| Left index                                                      |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/left_most_and_right_most_index.js)             | 🟢 |
 | Check if an array is sorted                                     |             |        |
 | Print alternate elements of an array                            |             |        |
 | Number of occurrence                                            |             |        |
