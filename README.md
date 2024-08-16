@@ -27,7 +27,7 @@
 | Left index                                                      |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/left_most_and_right_most_index.js)             | 🟢 |
 | Check if an array is sorted                                     |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_if_array_is_sorted.js)             | 🟢 |
 | Print alternate elements of an array                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/alternates_in_an_array.js)             | 🟢 |
-| Number of occurrence                                            |             |        |
+| Number of occurrence                                            |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/number_of_occurrence.js)          |    🔴    |
 | Median of two arrays                                            |             |        |
 | Missing number in an array                                      |             |        |
 | Sort array of 0s, 1s and 2                                      |             |        |
