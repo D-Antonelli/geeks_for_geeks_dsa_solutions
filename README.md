@@ -21,9 +21,9 @@
 | Sum of array elements-2                                         |             |        |
 | C++ Arrays (Sum of array) Set 1                                 |             |        |
 | Count 0s in sorted array                                        |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_the_zeros.js)             | 🟢 |
-| Search in sorted array                                          |             |        |
+| Search in sorted array                                          |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sorted_array_search.js)             | 🟢 |
 | Insert at end of array                                          |             |        |
-| Equilibrium point                                               |             |        |
+| Equilibrium point                                               |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/equilibrium_point.js)          |    🔴    |
 | Left index                                                      |             |        |
 | Check if an array is sorted                                     |             |        |
 | Print alternate elements of an array                            |             |        |
