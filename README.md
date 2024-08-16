@@ -25,7 +25,7 @@
 | Insert at end of array                                          |             |        |
 | Equilibrium point                                               |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/equilibrium_point.js)          |    🔴    |
 | Left index                                                      |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/left_most_and_right_most_index.js)             | 🟢 |
-| Check if an array is sorted                                     |             |        |
+| Check if an array is sorted                                     |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_if_array_is_sorted.js)             | 🟢 |
 | Print alternate elements of an array                            |             |        |
 | Number of occurrence                                            |             |        |
 | Median of two arrays                                            |             |        |
