@@ -28,7 +28,7 @@
 | Check if an array is sorted                                     |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_if_array_is_sorted.js)             | 🟢 |
 | Print alternate elements of an array                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/alternates_in_an_array.js)             | 🟢 |
 | Number of occurrence                                            |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/number_of_occurrence.js)          |    🔴    |
-| Median of two arrays                                            |             |        |
+| Median of two arrays                                            |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/median_of_2_sorted_arrays_of_different_sizes.js)          |    🔴    |
 | Missing number in an array                                      |             |        |
 | Sort array of 0s, 1s and 2                                      |             |        |
 | Product of array element                                        |             |        |
