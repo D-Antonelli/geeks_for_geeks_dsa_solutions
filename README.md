@@ -30,7 +30,7 @@
 | Number of occurrence                                            |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/number_of_occurrence.js)          |    🔴    |
 | Median of two arrays                                            |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/median_of_2_sorted_arrays_of_different_sizes.js)          |    🔴    |
 | Missing number in an array                                      |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/missing_in_array.js)             | 🟢 |
-| Sort array of 0s, 1s and 2                                      |             |        |
+| Sort array of 0s, 1s and 2                                      |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sort_0s,_1s_and_2s.js)             | 🟢 |
 | Product of array element                                        |             |        |
 | Index of first 1 in sorted boolean array                        |             |        |
 | Find number of numbers                                          |             |        |
