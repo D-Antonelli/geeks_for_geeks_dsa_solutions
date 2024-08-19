@@ -32,7 +32,7 @@
 | Missing number in an array                                      |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/missing_in_array.js)             | 🟢 |
 | Sort array of 0s, 1s and 2                                      |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sort_0s,_1s_and_2s.js)             | 🟢 |
 | Product of array element                                        |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/product_of_array_elements.js)          |    🔴    |
-| Index of first 1 in sorted boolean array                        |             |        |
+| First 1 in a Sorted Binary Array                        |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/first_1_in_a_sorted_binary_array.js)             | 🟢 |
 | Find number of numbers                                          |             |        |
 | Sum of distinct element                                         |             |        |
 | Multiply left and right array sum                               |             |        |
