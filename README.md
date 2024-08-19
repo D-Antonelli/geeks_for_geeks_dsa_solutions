@@ -33,7 +33,7 @@
 | Sort array of 0s, 1s and 2                                      |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sort_0s,_1s_and_2s.js)             | 🟢 |
 | Product of array element                                        |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/product_of_array_elements.js)          |    🔴    |
 | First 1 in a Sorted Binary Array                        |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/first_1_in_a_sorted_binary_array.js)             | 🟢 |
-| Find number of numbers                                          |             |        |
+| Count Occurrence of digit k                                         |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_occurrence_of_digit_k.js)             | 🟢 |
 | Sum of distinct element                                         |             |        |
 | Multiply left and right array sum                               |             |        |
 | Greater on right side                                           |             |        |
