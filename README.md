@@ -42,7 +42,7 @@
 | Count only repeated elements                                    |             |        |
 | Remove duplicate elements                                       |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_duplicate.js)             | 🔴 |
 | Search element in array                                         |             |        |
-| Check if two arrays are equals                                  |             |        |
+| Check if two arrays are equals                                  |   [java](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/java/search_element_in_array.java)             | 🟢 |
 | Generate Permutation(single case example)                       |             |        |
 | Min and max element                                             |             |        |
 | Is array sorted                                                 |             |        |
