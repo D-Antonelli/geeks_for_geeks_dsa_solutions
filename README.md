@@ -47,10 +47,9 @@
 | Min and Max in Array                                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/min_and_max_in_array.js)             | 🟢 |
 | Is array sorted                                                 |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_if_array_is_sorted.js)             | 🟢 |
 | Balanced array                                                  |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/balanced_array.js)             | 🟢 |
-| Find Index                                                      |             |        |
 | Array insert at index                                           |            |        |
 | Array delete and shift                                          |             |        |
-| Merge two sorted arrays O(1) space                              |             |        |
+| Merge two sorted arrays O(1) space                              |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/merge_two_sorted_arrays.js)             | 🔴 |
 | Union of two sorted array                                       |             |        |
 | Index of an extra element                                       |             |        |
 | Binary array sorting                                            |             |        |
