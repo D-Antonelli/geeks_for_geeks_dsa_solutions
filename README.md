@@ -34,7 +34,7 @@
 | Product of array element                                        |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/product_of_array_elements.js)          |    🔴    |
 | First 1 in a Sorted Binary Array                        |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/first_1_in_a_sorted_binary_array.js)             | 🟢 |
 | Count Occurrence of digit k                                         |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_occurrence_of_digit_k.js)             | 🟢 |
-| Sum of distinct element                                         |             |        |
+| Sum of distinct element                                         |   [java](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/java/sum_of_distinct_elements.java)             | 🟢 |
 | Multiply left and right array sum                               |             |        |
 | Greater on right side                                           |             |        |
 | Minimum product pair                                            |             |        |
