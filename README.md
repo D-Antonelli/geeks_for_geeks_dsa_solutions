@@ -40,7 +40,7 @@
 | Minimum product pair                                            |   [java](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/java/minimum_product_pair.java)             | 🟢 |
 | Find unique element                                             |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_unique_element.js)             | 🔴 |
 | Count only repeated elements                                    |             |        |
-| Remove duplicate elements                                       |             |        |
+| Remove duplicate elements                                       |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_duplicate.js)             | 🔴 |
 | Search element in array                                         |             |        |
 | Check if two arrays are equals                                  |             |        |
 | Generate Permutation(single case example)                       |             |        |
