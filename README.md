@@ -36,7 +36,7 @@
 | Count Occurrence of digit k                                         |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_occurrence_of_digit_k.js)             | 🟢 |
 | Sum of distinct element                                         |   [java](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/java/sum_of_distinct_elements.java)             | 🟢 |
 | Multiply left and right array sum                               |             |        |
-| Greater on right side                                           |             |        |
+| Greater on right side                                           |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/greater_on_right_side.js)             | 🟢 |
 | Minimum product pair                                            |             |        |
 | Find unique element                                             |             |        |
 | Count only repeated elements                                    |             |        |
