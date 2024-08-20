@@ -50,7 +50,7 @@
 | Array insert at index                                           |            |        |
 | Array delete and shift                                          |             |        |
 | Merge two sorted arrays O(1) space                              |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/merge_two_sorted_arrays.js)             | 🔴 |
-| Union of two sorted array                                       |             |        |
+| Union of two sorted array                                       |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/union_of_two_sorted_array.js)             | 🔴 |
 | Index of an extra element                                       |             |        |
 | Binary array sorting                                            |             |        |
 | Find transition point                                           |             |        |
