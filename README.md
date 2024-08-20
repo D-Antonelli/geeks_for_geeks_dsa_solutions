@@ -37,7 +37,7 @@
 | Sum of distinct element                                         |   [java](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/java/sum_of_distinct_elements.java)             | 🟢 |
 | Multiply left and right array sum                               |             |        |
 | Greater on right side                                           |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/greater_on_right_side.js)             | 🟢 |
-| Minimum product pair                                            |             |        |
+| Minimum product pair                                            |   [java](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/java/minimum_product_pair.java)             | 🟢 |
 | Find unique element                                             |             |        |
 | Count only repeated elements                                    |             |        |
 | Remove duplicate elements                                       |             |        |
