@@ -44,9 +44,9 @@
 | Search element in array                                         |             |        |
 | Check if two arrays are equals                                  |   [java](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/java/search_element_in_array.java)             | 🟢 |
 | Generate Permutation(single case example)                       |             |        |
-| Min and max element                                             |             |        |
-| Is array sorted                                                 |             |        |
-| Balanced array                                                  |             |        |
+| Min and Max in Array                                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/min_and_max_in_array.js)             | 🟢 |
+| Is array sorted                                                 |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_if_array_is_sorted.js)             | 🟢 |
+| Balanced array                                                  |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/balanced_array.js)             | 🟢 |
 | Find Index                                                      |             |        |
 | Array insert at index                                           |            |        |
 | Array delete and shift                                          |             |        |
