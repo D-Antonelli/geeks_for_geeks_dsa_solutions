@@ -55,7 +55,7 @@
 | Binary array sorting                                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/binary_array_sorting.js)             | 🟢 |
 | Find transition point                                           |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_transition_point.js)             | 🟢 |
 | Find the median                                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_the_median.js)             | 🟢 |
-| Rotate array by n elements                                      |             |        |
+| Rotate array by n elements                                      |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/rotate_array.js)             | 🔴 |
 | Find min and maximum number                                     |             |        |
 | Count Evens and odds                                            |             |        |
 | Leaders in array                                                |             |        |
