@@ -54,7 +54,7 @@
 | Index of an extra element                                       |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/index_of_an_extra_element.js)             | 🟢 |
 | Binary array sorting                                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/binary_array_sorting.js)             | 🟢 |
 | Find transition point                                           |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_transition_point.js)             | 🟢 |
-| Mean and median of an array                                     |             |        |
+| Find the median                                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_the_median.js)             | 🟢 |
 | Rotate array by n elements                                      |             |        |
 | Find min and maximum number                                     |             |        |
 | Count Evens and odds                                            |             |        |
