@@ -52,7 +52,7 @@
 | Merge two sorted arrays O(1) space                              |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/merge_two_sorted_arrays.js)             | 🔴 |
 | Union of two sorted array                                       |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/union_of_two_sorted_array.js)             | 🔴 |
 | Index of an extra element                                       |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/index_of_an_extra_element.js)             | 🟢 |
-| Binary array sorting                                            |             |        |
+| Binary array sorting                                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/binary_array_sorting.js)             | 🟢 |
 | Find transition point                                           |             |        |
 | Mean and median of an array                                     |             |        |
 | Rotate array by n elements                                      |             |        |
