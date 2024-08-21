@@ -56,8 +56,7 @@
 | Find transition point                                           |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_transition_point.js)             | 🟢 |
 | Find the median                                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_the_median.js)             | 🟢 |
 | Rotate array by n elements                                      |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/rotate_array.js)             | 🔴 |
-| Find min and maximum number                                     |             |        |
-| Count Evens and odds                                            |             |        |
+| Count Odd Even                                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_odd_even.js)             | 🟢 |
 | Leaders in array                                                |             |        |
 | Who has the majority element                                    |             |        |
 | Sort array of 0s, 1 and 2s                                      |             |        |
