@@ -58,8 +58,7 @@
 | Rotate array by n elements                                      |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/rotate_array.js)             | 🔴 |
 | Count Odd Even                                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_odd_even.js)             | 🟢 |
 | Reverse array in groups                                        |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/reverse_array_in_groups.js)             | 🟢 |
-| Reverse array - High modularity                                 |             |        |
-| Need some change                                                |             |        |
+| Need some change                                                |   [java](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/java/need_some_change.java)             | 🟢 |
 | Find the frequency                                              |             |        |
 | Immediate smaller element                                       |             |        |
 | pair-sum-in-vector                                              |             |        |
