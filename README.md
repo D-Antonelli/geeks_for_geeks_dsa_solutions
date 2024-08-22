@@ -57,10 +57,7 @@
 | Find the median                                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_the_median.js)             | 🟢 |
 | Rotate array by n elements                                      |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/rotate_array.js)             | 🔴 |
 | Count Odd Even                                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_odd_even.js)             | 🟢 |
-| Leaders in array                                                |             |        |
-| Who has the majority element                                    |             |        |
-| Sort array of 0s, 1 and 2s                                      |             |        |
-| Reverse the array                                               |             |        |
+| Reverse array in groups                                        |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/reverse_array_in_groups.js)             | 🟢 |
 | Reverse array - High modularity                                 |             |        |
 | Need some change                                                |             |        |
 | Find the frequency                                              |             |        |
