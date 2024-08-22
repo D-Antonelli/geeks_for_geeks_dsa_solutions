@@ -59,8 +59,8 @@
 | Count Odd Even                                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_odd_even.js)             | 🟢 |
 | Reverse array in groups                                        |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/reverse_array_in_groups.js)             | 🟢 |
 | Need some change                                                |   [java](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/java/need_some_change.java)             | 🟢 |
-| Find the frequency                                              |             |        |
-| Immediate smaller element                                       |             |        |
+| Find the frequency                                              |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_the_frequency.js)             | 🟢 |
+| Immediate smaller element                                       |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/immediate_smaller_element.js)             | 🟢 |
 | pair-sum-in-vector                                              |             |        |
 | rotate-array-by-n-elements                                      |             |        |
 | Sort and Reverse                                                |             |        |
