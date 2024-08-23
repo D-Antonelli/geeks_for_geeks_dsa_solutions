@@ -70,7 +70,7 @@
 | Functions in list                                               |                |  |
 | Pair sum in vector (sum second element of the second element)   |             |        |
 | Index of the first repeating element                            |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/first_repeating_element.js)             | 🟢 |
-| K-th element of two sorted Arrays (merge of two arrays)         |             |        |
+| K-th element of two sorted Arrays (merge of two arrays)         |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/k-th_element_of_two_arrays.js)             | 🟢 |
 | Replace all 0's with 5 (using atoi)                             |             |        |
 | Third largest element                                           |             |        |
 | Find Duplicates in an Array                                     |             |        |
