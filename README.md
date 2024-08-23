@@ -62,7 +62,7 @@
 | Find the frequency                                              |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_the_frequency.js)             | 🟢 |
 | Immediate smaller element                                       |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/immediate_smaller_element.js)             | 🟢 |
 | Count smaller elements                                           |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_smaller_elements.js)             | 🔴 |
-| Facing the sun                                                  |             |        |
+| Buildings receiving sunlight                                   |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/buildings_receiving_sunlight.js)             | 🟢 |
 | Student of the year (Descending sorting of vector of pairs)     |             |        |
 | Find immediate smaller than X                                   |             |        |
 | Kth Smallest Element                                            |             |        |
