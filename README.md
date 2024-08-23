@@ -64,7 +64,7 @@
 | Count smaller elements                                           |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_smaller_elements.js)             | 🔴 |
 | Buildings receiving sunlight                                   |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/buildings_receiving_sunlight.js)             | 🟢 |
 | Kth Smallest Element                                            |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/kth_smallest.js)             | 🟢 |
-| Alone in Couple                                                 |             |        |
+| Alone in Couple                                                 |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/party_of_couples.js)             | 🟢 |
 | Intro to list                                                   |                |  |
 | Count even odd python                                           |                |  |
 | Functions in list                                               |                |  |
