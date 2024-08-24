@@ -73,7 +73,7 @@
 | K-th element of two sorted Arrays (merge of two arrays)         |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/k-th_element_of_two_arrays.js)             | 🟢 |
 | Replace all 0's with 5                            |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/replace-os-with-5s.js)  | 🟢 |
 | Third largest element                                           |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/third_largest_element.js)  | 🟢 |
-| Find Duplicates in an Array                                     |             |        |
+| Find Duplicates in an Array                                     |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/array_duplicates.js)  | 🟢 |
 | Majority Element                                                |             |        |
 | Max and Second max                                              |             |        |
 
