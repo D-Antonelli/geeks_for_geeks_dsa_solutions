@@ -17,7 +17,7 @@
 | Product of maximum in first array and minimum in second         |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/max_and_min_product.js)             | 🟢 |
 | At least two greater element                                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/at_least_two_greater_elements.js), [python](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/python/at_least_two_greater_elements.py)            | 🟢 |
 | C++ Array (print an element) Set 2                              |             |        |
-| Sub array with given sum (print index range of the subarray)    |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/subarrays_with_given_sum.js)          |    🔴    |
+| Sub array with given sum (print index range of the subarray)    |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/subarrays_with_given_sum.js)          |    🟢    |
 | Sum of array elements-2                                         |             |        |
 | C++ Arrays (Sum of array) Set 1                                 |             |        |
 | Count 0s in sorted array                                        |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_the_zeros.js)             | 🟢 |
