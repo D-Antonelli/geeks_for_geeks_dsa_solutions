@@ -1,7 +1,14 @@
 ## My Profile
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/deryaantvgm7/)
 
-## Array or Vector
+## Algorithms and Data Structures
+
+- [Arrays](#arrays)
+- [Linked List](#linked-list)
+
+
+
+## Arrays
 
 | Name                                                           | Solution | Status* |
 |----------------------------------------------------------------| -------- | ------- |
@@ -78,3 +85,66 @@
 | Max and Second max                                              |             |        |
 
 
+## Linked List
+
+| Name                                                           | Solution | Status |
+|----------------------------------------------------------------| -------- | ------- |
+| Fractional linked list | |		
+Display linked list	C++	Python
+Nth node from end of linked list		Python
+Adds two numbers represented by linkedln list	PY	
+Sum of nodes	C++	
+Intersaction point in y shapped linked list	C++	
+Remove duplicates in sorted Linked list	C++	
+Pair swap of a linked list	C++	
+Find nk-th node in linked list	C++	
+Linked list insert	C++	
+Sorted insert for circular linked list	C++	
+Join two linked list	C++	
+Modular Node	C++	
+Delete tail of circular linked list	C++	
+Delete middle of linked list	C++	
+Linked list, delete note at position t	C++	
+Remove head single linked list	C++	
+Display circular linked list	C++	
+Compare two circular doubly linked list	C++	
+Insert at tail (end) of circular linked list	C++	
+Insert in middle of linked list	C++	
+Get length(number of nodes) of a circualr linke list	C++	
+Delete head of a circular list	C++	
+Insert at head in a circular linked list	C++	
+Insert at end of a circular linked list	C++	
+Delete node of Circular list at a specific position	C++	
+Doubly linked list head insert	C++	
+Display circular double linked list	C++	
+Doubly linked list tail insert	C++	
+Max and minimum in linked list	C++	
+Delete tail of linked list	C++	
+Display double linked list forward and backward	C++	
+Get middle element of circular double linked list	C++	
+Delete head of doubly linked list	C++	
+delete-tail-of-doubly-linked-list.cpp	C++	
+Search in Linked list	C++	
+Learning struct	C++	
+Insert node in doubly linked list	C++	
+Insert node in doubly-linked-list	C++	
+Is doubly doubly linked list circular	C++	
+Compare two linked list	C++	
+Count nodes in Liked List	C++	
+Count Occurrency	C++	
+Identical Linked List	C++	
+Delete a node in single linked list	C++	
+Insert in sorted linked list	C++	
+linked-list-length-even-or-odd	C++	
+Middle Element	C++	
+Node at the given position	C++	Python
+Find sum of last N nodes	C++	
+Circular Linked List	C++	
+Reverse a Linked List	C++	
+Detect a loop	C++	
+Remove loop from Linked List	C++	
+Check if a Linked LIst is Palindrome	C++	
+Find lenght of a loop	C++	
+Occurrence of an integer in a linked list	C++	
+Sort Linked list of 0s, 1s and 2	C++	Pythons
+Remove node without having reference of the head node	C++	
