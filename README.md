@@ -89,7 +89,7 @@
 
 | Name                                                           | Solution | Status |
 |----------------------------------------------------------------| -------- | ------- |
-| Fractional linked list | |		
+| Fractional linked list | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/fractional_linked_list.js) | 🟢	|	
 Display linked list	C++	Python
 Nth node from end of linked list		Python
 Adds two numbers represented by linkedln list	PY	
