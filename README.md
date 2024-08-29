@@ -91,7 +91,7 @@
 |----------------------------------------------------------------| -------- | ------- |
 | Fractional linked list | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/fractional_linked_list.js) | 🟢	|	
 Print Linked List elements | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/print_linked_list_elements.js) | 🟢	|
-Nth node from end of linked list		Python
+Kth from End of Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/kth_from_end_of_linked_list.js) | 🟢	|
 Adds two numbers represented by linkedln list	PY	
 Sum of nodes	C++	
 Intersaction point in y shapped linked list	C++	
