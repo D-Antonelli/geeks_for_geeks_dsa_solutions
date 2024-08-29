@@ -93,7 +93,7 @@
 Print Linked List elements | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/print_linked_list_elements.js) | 🟢	|
 Kth from End of Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/kth_from_end_of_linked_list.js) | 🟢	|
 Adds two numbers represented by linkedln list	PY	
-Sum of nodes	C++	
+[Sum of nodes](https://www.geeksforgeeks.org/problems/find-the-sum-of-last-n-nodes-of-the-linked-list/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)		
 [Intersaction point in y shapped linked list](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1?track=DSASP-LinkedList&batchId=154)	|  | 🔴	|
 Remove duplicates in sorted Linked list	C++	
 Pair swap of a linked list	C++	
