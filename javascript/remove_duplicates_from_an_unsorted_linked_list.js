@@ -1,4 +1,5 @@
-// remove first element!
+// https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+
 class Solution {
   // Function to remove duplicates from unsorted linked list.
   removeDuplicates(head) {
@@ -6,36 +7,26 @@ class Solution {
 
     let curr = head;
 
-    // store elements in map
     while (curr !== null) {
-      if (!map.has(curr.data)) {
-        map.set(curr.data, 1);
-      } else {
-        let count = map.get(curr.data);
-        count++;
-        map.set(curr.data, count);
-      }
-
+      // add unique elements and remove once get
+      map.set(curr.data, true);
       curr = curr.next;
     }
 
     curr = head;
 
     while (curr !== null && curr.next !== null) {
-      if (curr == head && map.get(curr.data) && map.get(curr.data) > 1) {
-        let count = map.get(curr.data);
-        count--;
-        map.set(curr.data, count);
-        head = head.next;
-        curr = head;
+      if (curr == head && map.get(curr.data)) {
+        map.delete(curr.data);
       }
 
-      if (map.get(curr.next.data) && map.get(curr.next.data) > 1) {
-        let count = map.get(curr.next.data);
-        count--;
-        map.set(curr.next.data, count);
+      // tail
+      else if (curr.next.next == null && !map.get(curr.next.data)) {
+        curr.next = null;
+      } else if (!map.get(curr.next.data)) {
         curr.next = curr.next.next;
-      } else {
+      } else if (map.get(curr.next.data)) {
+        map.delete(curr.next.data);
         curr = curr.next;
       }
     }
