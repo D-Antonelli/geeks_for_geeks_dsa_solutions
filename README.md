@@ -98,7 +98,7 @@ Adds two numbers represented by linkedln list	PY
 Remove duplicates from an unsorted linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_duplicates_from_an_unsorted_linked_list.js) | 🟢 |
 Pair swap of a linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/pairwise_swap_elements_of_a_linked_list.js) | 🟢 |
 Find nk-th node in linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_nk-th_node_in_linked_list.js) | 🟢 |
-Linked list insert	C++	
+Linked list insert	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/linked_list_insertion_at_end.js) | 🟢 |
 Sorted insert for circular linked list	C++	
 Join two linked list	C++	
 Modular Node	C++	
