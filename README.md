@@ -100,7 +100,7 @@ Pair swap of a linked list	| [javascript](https://github.com/D-Antonelli/mentors
 Find nk-th node in linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_nk-th_node_in_linked_list.js) | 🟢 |
 Linked list insert	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/linked_list_insertion_at_end.js) | 🟢 |
 Sorted insert for circular linked list	C++	
-Join two linked list	C++	
+Merge two sorted linked lists | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/merge_two_sorted_linked_lists.js) | 🟢 |
 Modular Node	C++	
 Delete tail of circular linked list	C++	
 Delete middle of linked list	C++	
