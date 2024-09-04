@@ -23,13 +23,9 @@
 | Multiplication table                                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/multiplication_table.js)             | 🟢 |
 | Product of maximum in first array and minimum in second         |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/max_and_min_product.js)             | 🟢 |
 | At least two greater element                                    |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/at_least_two_greater_elements.js), [python](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/python/at_least_two_greater_elements.py)            | 🟢 |
-| C++ Array (print an element) Set 2                              |             |        |
 | Sub array with given sum (print index range of the subarray)    |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/subarrays_with_given_sum.js)          |    🟢    |
-| Sum of array elements-2                                         |             |        |
-| C++ Arrays (Sum of array) Set 1                                 |             |        |
 | Count 0s in sorted array                                        |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_the_zeros.js)             | 🟢 |
 | Search in sorted array                                          |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sorted_array_search.js)             | 🟢 |
-| Insert at end of array                                          |             |        |
 | Equilibrium point                                               |    [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/equilibrium_point.js)          |    🔴    |
 | Left index                                                      |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/left_most_and_right_most_index.js)             | 🟢 |
 | Check if an array is sorted                                     |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_if_array_is_sorted.js)             | 🟢 |
@@ -42,20 +38,14 @@
 | First 1 in a Sorted Binary Array                        |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/first_1_in_a_sorted_binary_array.js)             | 🟢 |
 | Count Occurrence of digit k                                         |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_occurrence_of_digit_k.js)             | 🟢 |
 | Sum of distinct element                                         |   [java](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/java/sum_of_distinct_elements.java)             | 🟢 |
-| Multiply left and right array sum                               |             |        |
 | Greater on right side                                           |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/greater_on_right_side.js)             | 🟢 |
 | Minimum product pair                                            |   [java](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/java/minimum_product_pair.java)             | 🟢 |
 | Find unique element                                             |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_unique_element.js)             | 🔴 |
-| Count only repeated elements                                    |             |        |
 | Remove duplicate elements                                       |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_duplicate.js)             | 🔴 |
-| Search element in array                                         |             |        |
 | Check if two arrays are equals                                  |   [java](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/java/search_element_in_array.java)             | 🟢 |
-| Generate Permutation(single case example)                       |             |        |
 | Min and Max in Array                                            |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/min_and_max_in_array.js)             | 🟢 |
 | Is array sorted                                                 |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_if_array_is_sorted.js)             | 🟢 |
 | Balanced array                                                  |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/balanced_array.js)             | 🟢 |
-| Array insert at index                                           |            |        |
-| Array delete and shift                                          |             |        |
 | Merge two sorted arrays O(1) space                              |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/merge_two_sorted_arrays.js)             | 🔴 |
 | Union of two sorted array                                       |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/union_of_two_sorted_array.js)             | 🔴 |
 | Index of an extra element                                       |   [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/index_of_an_extra_element.js)             | 🟢 |
@@ -72,17 +62,12 @@
 | Buildings receiving sunlight                                   |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/buildings_receiving_sunlight.js)             | 🟢 |
 | Kth Smallest Element                                            |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/kth_smallest.js)             | 🟢 |
 | Alone in Couple                                                 |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/party_of_couples.js)             | 🟢 |
-| Intro to list                                                   |                |  |
-| Count even odd python                                           |                |  |
-| Functions in list                                               |                |  |
-| Pair sum in vector (sum second element of the second element)   |             |        |
 | Index of the first repeating element                            |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/first_repeating_element.js)             | 🟢 |
 | K-th element of two sorted Arrays (merge of two arrays)         |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/k-th_element_of_two_arrays.js)             | 🟢 |
 | Replace all 0's with 5                            |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/replace-os-with-5s.js)  | 🟢 |
 | Third largest element                                           |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/third_largest_element.js)  | 🟢 |
 | Find Duplicates in an Array                                     |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/array_duplicates.js)  | 🟢 |
 | Majority Element                                                |  [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/majority_element.js)  | 🟢 |
-| Max and Second max                                              |             |        |
 
 
 ## Linked List
@@ -101,7 +86,7 @@ Find nk-th node in linked list	| [javascript](https://github.com/D-Antonelli/men
 Linked list insert	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/linked_list_insertion_at_end.js) | 🟢 |
 Sorted insert for circular linked list	C++	
 Merge two sorted linked lists | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/merge_two_sorted_linked_lists.js) | 🟢 |
-Modular Node	C++	
+Modular Node	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/modular_node.js) | 🟢 |	
 Delete tail of circular linked list	C++	
 Delete middle of linked list	C++	
 Linked list, delete note at position t	C++	
