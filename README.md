@@ -1,7 +1,7 @@
 ## My Profile
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/deryaantvgm7/)
 
-## Algorithms and Data Structures
+## Algorithms and Data Structures (In progress)
 
 - [Arrays](#arrays)
 - [Linked List](#linked-list)
