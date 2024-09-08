@@ -88,7 +88,7 @@ Sorted insert for circular linked list	C++
 Merge two sorted linked lists | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/merge_two_sorted_linked_lists.js) | 🟢 |
 Modular Node	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/modular_node.js) | 🟢 |	
 Delete tail of circular linked list	C++	
-Delete middle of linked list	C++	
+Delete middle of linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/delete_middle_of_linked_list.js) | 🟢 |	
 Linked list, delete note at position t	C++	
 Remove head single linked list	C++	
 Display circular linked list	C++	
