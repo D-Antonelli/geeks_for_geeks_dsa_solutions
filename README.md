@@ -102,13 +102,11 @@ Delete node of Circular list at a specific position	C++
 Doubly linked list head insert	C++	
 Display circular double linked list	C++	
 Doubly linked list tail insert	C++	
-Max and minimum in linked list	C++	
-Delete tail of linked list	C++	
 Display double linked list forward and backward	C++	
 Get middle element of circular double linked list	C++	
 Delete head of doubly linked list	C++	
 delete-tail-of-doubly-linked-list.cpp	C++	
-Search in Linked list	C++	
+Search in Linked list | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/search_in_linked_list.js) | 🟢 |	
 Learning struct	C++	
 Insert node in doubly linked list	C++	
 Insert node in doubly-linked-list	C++	
