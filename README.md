@@ -115,8 +115,7 @@ Compare two linked list	C++
 Count Linked List Nodes	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_linked_list_nodes.js) | 🟢 |	
 Occurence of an integer in a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/occurence_of_an_integer_in_a_linked_list.js) | 🟢 |
 Identical Linked List	C++	
-Delete a node in single linked list	C++	
-Insert in sorted linked list	C++	
+Insert in sorted linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/insert_in_a_sorted_list.js) | 🟢 |	
 linked-list-length-even-or-odd	C++	
 Middle Element	C++	
 Node at the given position	C++	Python
