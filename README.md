@@ -112,7 +112,7 @@ Insert node in doubly linked list	C++
 Insert node in doubly-linked-list	C++	
 Is doubly doubly linked list circular	C++	
 Compare two linked list	C++	
-Count nodes in Liked List	C++	
+Count Linked List Nodes	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_linked_list_nodes.js) | 🟢 |	
 Count Occurrency	C++	
 Identical Linked List	C++	
 Delete a node in single linked list	C++	
