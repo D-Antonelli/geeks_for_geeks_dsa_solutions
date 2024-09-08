@@ -84,17 +84,16 @@ Remove duplicates from an unsorted linked list	| [javascript](https://github.com
 Pair swap of a linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/pairwise_swap_elements_of_a_linked_list.js) | 🟢 |
 Find nk-th node in linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_nk-th_node_in_linked_list.js) | 🟢 |
 Linked list insert	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/linked_list_insertion_at_end.js) | 🟢 |
-Sorted insert for circular linked list	C++	
+Sorted insert for circular linked list	
 Merge two sorted linked lists | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/merge_two_sorted_linked_lists.js) | 🟢 |
 Modular Node	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/modular_node.js) | 🟢 |	
-Delete tail of circular linked list	C++	
+Delete tail of circular linked list		
 Delete middle of linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/delete_middle_of_linked_list.js) | 🟢 |	
 Delete a Node in Single Linked List | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/delete_a_node_in_single_linked_list.js) | 🟢 |
-Remove head single linked list	C++	
-Display circular linked list	C++	
-Compare two circular doubly linked list	C++	
-Insert at tail (end) of circular linked list	C++	
-Insert in middle of linked list	C++	
+Display circular linked list		
+Compare two circular doubly linked list		
+Insert at tail (end) of circular linked list	
+Insert in middle of linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/insert_in_middle_of_linked_list.js) | 🟢 |	
 Get length(number of nodes) of a circualr linke list	C++	
 Delete head of a circular list	C++	
 Insert at head in a circular linked list	C++	
