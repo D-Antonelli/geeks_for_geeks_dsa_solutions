@@ -89,7 +89,7 @@ Merge two sorted linked lists | [javascript](https://github.com/D-Antonelli/ment
 Modular Node	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/modular_node.js) | 🟢 |	
 Delete tail of circular linked list	C++	
 Delete middle of linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/delete_middle_of_linked_list.js) | 🟢 |	
-Linked list, delete note at position t	C++	
+Delete a Node in Single Linked List | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/delete_a_node_in_single_linked_list.js) | 🟢 |
 Remove head single linked list	C++	
 Display circular linked list	C++	
 Compare two circular doubly linked list	C++	
