@@ -116,7 +116,7 @@ Count Linked List Nodes	| [javascript](https://github.com/D-Antonelli/mentorship
 Occurence of an integer in a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/occurence_of_an_integer_in_a_linked_list.js) | 🟢 |
 Identical Linked List	C++	
 Insert in sorted linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/insert_in_a_sorted_list.js) | 🟢 |	
-linked-list-length-even-or-odd	C++	
+linked-list-length-even-or-odd	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/linked-list-length-even-or-odd.js) | 🟢 |
 Middle Element	C++	
 Node at the given position	C++	Python
 Find sum of last N nodes	C++	
