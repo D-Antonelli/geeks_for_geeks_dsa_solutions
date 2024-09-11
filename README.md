@@ -118,10 +118,8 @@ Identical Linked List	C++
 Insert in sorted linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/insert_in_a_sorted_list.js) | 🟢 |	
 linked-list-length-even-or-odd	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/linked-list-length-even-or-odd.js) | 🟢 |
 Middle of a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/middle_of_a_linked_list.js) | 🟢 |	
-Node at the given position	C++	Python
-Find sum of last N nodes	C++	
 Circular Linked List	C++	
-Reverse a Linked List	C++	
+Reverse a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/reverse_a_linked_list.js) | 🟢 |	
 Detect a loop	C++	
 Remove loop from Linked List	C++	
 Check if a Linked LIst is Palindrome	C++	
