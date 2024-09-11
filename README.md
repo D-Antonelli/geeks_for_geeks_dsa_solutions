@@ -121,9 +121,9 @@ Middle of a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship
 Circular Linked List	C++	
 Reverse a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/reverse_a_linked_list.js) | 🟢 |	
 Detect Loop in linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/detect_loop_in_linked_list.js) | 🟢 |
-Remove loop from Linked List	C++	
-Check if a Linked LIst is Palindrome	C++	
-Find lenght of a loop	C++	
-Occurrence of an integer in a linked list	C++	
-Sort Linked list of 0s, 1s and 2	C++	Pythons
-Remove node without having reference of the head node	C++	
+Remove loop from Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_loop_from_linked_list.js) | 🟢 |	
+Check if a Linked LIst is Palindrome		
+Find lenght of a loop
+Occurrence of an integer in a linked list		
+Sort Linked list of 0s, 1s and 2	
+Remove node without having reference of the head node	
