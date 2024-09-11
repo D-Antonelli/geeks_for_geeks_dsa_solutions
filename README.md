@@ -120,7 +120,7 @@ linked-list-length-even-or-odd	| [javascript](https://github.com/D-Antonelli/men
 Middle of a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/middle_of_a_linked_list.js) | 🟢 |	
 Circular Linked List	C++	
 Reverse a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/reverse_a_linked_list.js) | 🟢 |	
-Detect a loop	C++	
+Detect Loop in linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/detect_loop_in_linked_list.js) | 🟢 |
 Remove loop from Linked List	C++	
 Check if a Linked LIst is Palindrome	C++	
 Find lenght of a loop	C++	
