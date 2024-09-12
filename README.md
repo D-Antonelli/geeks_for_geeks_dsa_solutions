@@ -123,7 +123,7 @@ Reverse a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_w
 Detect Loop in linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/detect_loop_in_linked_list.js) | 🟢 |
 Remove loop from Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_loop_from_linked_list.js) | 🟢 |	
 Palindrome Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/palindrome_linked_list.js) | 🟢 |
-Find lenght of a loop
+Find lenght of a loop | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_lenght_of_a_loop.js) | 🟢 |
 Occurrence of an integer in a linked list		
 Sort Linked list of 0s, 1s and 2	
 Remove node without having reference of the head node	
