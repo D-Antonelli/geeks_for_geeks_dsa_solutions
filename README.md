@@ -84,7 +84,7 @@ Remove duplicates from an unsorted linked list	| [javascript](https://github.com
 Pair swap of a linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/pairwise_swap_elements_of_a_linked_list.js) | 🟢 |
 Find nk-th node in linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_nk-th_node_in_linked_list.js) | 🟢 |
 Linked list insert	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/linked_list_insertion_at_end.js) | 🟢 |
-Sorted insert for circular linked list	
+Sorted insert for circular linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sorted_insert_for_circular_linked_list.js) | 🟢 |
 Merge two sorted linked lists | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/merge_two_sorted_linked_lists.js) | 🟢 |
 Modular Node	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/modular_node.js) | 🟢 |	
 Delete tail of circular linked list		
