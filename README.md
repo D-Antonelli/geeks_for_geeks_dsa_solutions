@@ -77,7 +77,7 @@
 | Fractional linked list | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/fractional_linked_list.js) | 🟢	|	
 Print Linked List elements | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/print_linked_list_elements.js) | 🟢	|
 Kth from End of Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/kth_from_end_of_linked_list.js) | 🟢	|
-Adds two numbers represented by linkedln list	PY	
+Adds two numbers represented by linkedln list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/adds_two_numbers_represented_by_linkedln_list.js) | 🟢	|	
 [Sum of nodes](https://www.geeksforgeeks.org/problems/find-the-sum-of-last-n-nodes-of-the-linked-list/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sum_of_last_n_nodes.js) | 🟢 |	
 [Intersaction point in y shapped linked list](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1?track=DSASP-LinkedList&batchId=154)	|  | 🔴	|
 Remove duplicates from an unsorted linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_duplicates_from_an_unsorted_linked_list.js) | 🟢 |
@@ -125,4 +125,3 @@ Remove loop from Linked List	| [javascript](https://github.com/D-Antonelli/mento
 Palindrome Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/palindrome_linked_list.js) | 🟢 |
 Find lenght of a loop | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_lenght_of_a_loop.js) | 🟢 |	
 Linked List that is Sorted Alternatingly | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_lenght_of_a_loop.js) | 🟢 |
-Remove node without having reference of the head node	
