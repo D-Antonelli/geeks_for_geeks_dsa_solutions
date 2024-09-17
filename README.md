@@ -86,19 +86,11 @@ Find nk-th node in linked list	| [javascript](https://github.com/D-Antonelli/men
 Linked list insert	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/linked_list_insertion_at_end.js) | 🟢 |
 Sorted insert for circular linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/sorted_insert_for_circular_linked_list.js) | 🟢 |
 Merge two sorted linked lists | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/merge_two_sorted_linked_lists.js) | 🟢 |
-Modular Node	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/modular_node.js) | 🟢 |	
-Delete tail of circular linked list		
+Modular Node	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/modular_node.js) | 🟢 |		
 Delete middle of linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/delete_middle_of_linked_list.js) | 🟢 |	
-Delete a Node in Single Linked List | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/delete_a_node_in_single_linked_list.js) | 🟢 |
-Display circular linked list		
+Delete a Node in Single Linked List | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/delete_a_node_in_single_linked_list.js) | 🟢 |	
 Compare two circular doubly linked list		
-Insert at tail (end) of circular linked list	
 Insert in middle of linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/insert_in_middle_of_linked_list.js) | 🟢 |	
-Get length(number of nodes) of a circualr linke list	C++	
-Delete head of a circular list	C++	
-Insert at head in a circular linked list	C++	
-Insert at end of a circular linked list	C++	
-Delete node of Circular list at a specific position	C++	
 Doubly linked list head insert	C++	
 Display circular double linked list	C++	
 Doubly linked list tail insert	C++	
@@ -118,7 +110,7 @@ Identical Linked List	C++
 Insert in sorted linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/insert_in_a_sorted_list.js) | 🟢 |	
 linked-list-length-even-or-odd	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/linked-list-length-even-or-odd.js) | 🟢 |
 Middle of a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/middle_of_a_linked_list.js) | 🟢 |	
-Circular Linked List	C++	
+Check If Circular Linked List | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_if_circular_linked_list.js) | 🟢 |
 Reverse a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/reverse_a_linked_list.js) | 🟢 |	
 Detect Loop in linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/detect_loop_in_linked_list.js) | 🟢 |
 Remove loop from Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_loop_from_linked_list.js) | 🟢 |	
