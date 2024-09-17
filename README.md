@@ -91,7 +91,6 @@ Delete middle of linked list	| [javascript](https://github.com/D-Antonelli/mento
 Delete a Node in Single Linked List | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/delete_a_node_in_single_linked_list.js) | 🟢 |		
 Insert in middle of linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/insert_in_middle_of_linked_list.js) | 🟢 |			
 Search in Linked list | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/search_in_linked_list.js) | 🟢 |	
-Compare two linked list	C++	
 Count Linked List Nodes	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_linked_list_nodes.js) | 🟢 |	
 Occurence of an integer in a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/occurence_of_an_integer_in_a_linked_list.js) | 🟢 |
 Identical Linked Lists	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/identical_linked_lists.js) | 🟢 |
