@@ -88,25 +88,13 @@ Sorted insert for circular linked list	| [javascript](https://github.com/D-Anton
 Merge two sorted linked lists | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/merge_two_sorted_linked_lists.js) | 🟢 |
 Modular Node	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/modular_node.js) | 🟢 |		
 Delete middle of linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/delete_middle_of_linked_list.js) | 🟢 |	
-Delete a Node in Single Linked List | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/delete_a_node_in_single_linked_list.js) | 🟢 |	
-Compare two circular doubly linked list		
-Insert in middle of linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/insert_in_middle_of_linked_list.js) | 🟢 |	
-Doubly linked list head insert	C++	
-Display circular double linked list	C++	
-Doubly linked list tail insert	C++	
-Display double linked list forward and backward	C++	
-Get middle element of circular double linked list	C++	
-Delete head of doubly linked list	C++	
-delete-tail-of-doubly-linked-list.cpp	C++	
+Delete a Node in Single Linked List | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/delete_a_node_in_single_linked_list.js) | 🟢 |		
+Insert in middle of linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/insert_in_middle_of_linked_list.js) | 🟢 |			
 Search in Linked list | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/search_in_linked_list.js) | 🟢 |	
-Learning struct	C++	
-Insert node in doubly linked list	C++	
-Insert node in doubly-linked-list	C++	
-Is doubly doubly linked list circular	C++	
 Compare two linked list	C++	
 Count Linked List Nodes	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_linked_list_nodes.js) | 🟢 |	
 Occurence of an integer in a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/occurence_of_an_integer_in_a_linked_list.js) | 🟢 |
-Identical Linked List	C++	
+Identical Linked Lists	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/identical_linked_lists.js) | 🟢 |
 Insert in sorted linked list	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/insert_in_a_sorted_list.js) | 🟢 |	
 linked-list-length-even-or-odd	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/linked-list-length-even-or-odd.js) | 🟢 |
 Middle of a Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/middle_of_a_linked_list.js) | 🟢 |	
