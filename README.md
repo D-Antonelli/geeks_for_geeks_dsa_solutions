@@ -104,3 +104,18 @@ Remove loop from Linked List	| [javascript](https://github.com/D-Antonelli/mento
 Palindrome Linked List	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/palindrome_linked_list.js) | 🟢 |
 Find lenght of a loop | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_lenght_of_a_loop.js) | 🟢 |	
 Linked List that is Sorted Alternatingly | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_lenght_of_a_loop.js) | 🟢 |
+
+## Sorting
+
+| Name                                                           | Solution | Status |
+|----------------------------------------------------------------| -------- | ------- |
+JavaScript generic sort | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/javascript_generic_sort.js) | 🟢 |
+Maximum product of two numbers | JavaScript
+Count the zeros	| JavaScript
+Bubble sort	| JavaScript
+Amazon binary array sortiong | JavaScript
+Rotate Matrix by 90 degrees- clowise | JavaScript
+reverse the columsn of matrix	| JavaScript
+Bubble sort	| JavaScript
+Merge sort	| JavaScript
+Binary array sorting | JavaScript
