@@ -5,6 +5,7 @@
 
 - [Arrays](#arrays)
 - [Linked List](#linked-list)
+- [Sorting](#sorting)
 
 
 
