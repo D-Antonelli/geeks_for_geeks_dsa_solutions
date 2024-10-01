@@ -111,7 +111,7 @@ Linked List that is Sorted Alternatingly | [javascript](https://github.com/D-Ant
 | Name                                                           | Solution | Status |
 |----------------------------------------------------------------| -------- | ------- |
 JavaScript generic sort | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/javascript_generic_sort.js) | 🟢 |
-Maximum product of two numbers | JavaScript
+Maximum product of two numbers | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/maximum_product_of_two_numbers.js) | 🟢 |
 Count the zeros	| JavaScript
 Bubble sort	| JavaScript
 Amazon binary array sortiong | JavaScript
