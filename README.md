@@ -114,8 +114,7 @@ JavaScript generic sort | [javascript](https://github.com/D-Antonelli/mentorship
 Maximum product of two numbers | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/maximum_product_of_two_numbers.js) | 🟢 |
 Count the zeros	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_the_zeros.js) | 🟢 |
 Bubble sort	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/bubble_sort.js) | 🟢 |
-Amazon binary array sorting | JavaScript
-Rotate Matrix by 90 degrees- clowise | JavaScript
+Rotate Matrix by 90 degrees | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/rotate_image.js) | 🟢 |
 Reverse the columns of matrix	| JavaScript
 Merge sort	| JavaScript
 Binary array sorting | JavaScript
