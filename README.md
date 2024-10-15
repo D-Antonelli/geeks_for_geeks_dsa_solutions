@@ -6,6 +6,7 @@
 - [Arrays](#arrays)
 - [Linked List](#linked-list)
 - [Sorting](#sorting)
+- [Strings](#strings)
 
 
 
@@ -115,6 +116,48 @@ Maximum product of two numbers | [javascript](https://github.com/D-Antonelli/men
 Count the zeros	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/count_the_zeros.js) | 🟢 |
 Bubble sort	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/bubble_sort.js) | 🟢 |
 Rotate Matrix by 90 degrees | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/rotate_image.js) | 🟢 |
-Reverse the columns of matrix	| JavaScript
 Merge sort	| JavaScript
 Binary array sorting | JavaScript
+
+## Strings
+| Name                                                           | Solution | Status |
+|----------------------------------------------------------------| -------- | ------- |
+Naive Pattern Search	
+Lower case		
+Find maximum number		
+Print first letter of every word		
+Reverse string in O(1) space complexity		
+Display longest name		
+String validation		
+Repeat the string		
+Welcome abroad	
+Remove spaces		
+Hello World	
+Check string		
+Contatenate String 
+Is Isogram		
+Check for binary		
+First letter of each word		
+Missing characters in panagram		
+Check if b is an anagram of a		
+Consonant and vowals check		
+Lower to upper case		
+String validation		
+C friend function (anagram check)		
+last-index-of-1		
+Longest substring containg 1		
+Panagram checking		
+Repeating characer first appearance leftmost		
+Uppercase to lowercase		
+Count numnber of words in a string		
+Repeated chars		
+Count distinct vowels in a string		
+Length of a string		
+Amend the sentece		
+Remove 'b' and 'ac' from given string		
+String sort (Using Quick-sort)		
+Vowels in string		
+Check if a string is Isogram or not		
+Reverse words of a given string		
+Given two strings, check if one is the anagram of another		
+First and second smallest element		
