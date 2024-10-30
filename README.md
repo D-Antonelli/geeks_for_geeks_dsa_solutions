@@ -122,7 +122,7 @@ Binary array sorting | JavaScript
 ## Strings
 | Name                                                           | Solution | Status |
 |----------------------------------------------------------------| -------- | ------- |
-Naive Pattern Search	
+Naive Pattern Search | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/naive_pattern_search.js) | 🟢 |
 Lower case		
 Find maximum number		
 Print first letter of every word		
