@@ -125,7 +125,7 @@ Binary array sorting | JavaScript
 Naive Pattern Search | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/naive_pattern_search.js) | 🟢 |
 [Lower case](https://www.geeksforgeeks.org/problems/java-convert-string-to-lowercase2313/1)	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/convert_string_to_lowercase.js) | 🟢 |
 Find maximum number	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_maximum_number.js) | 🟢 |	
-Print first letter of every word		
+Print first letter of every word | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/print_first_letter_of_every_word.js) | 🟢 |		
 Reverse string in O(1) space complexity		
 Display longest name		
 String validation		
