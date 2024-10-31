@@ -127,7 +127,7 @@ Naive Pattern Search | [javascript](https://github.com/D-Antonelli/mentorship_wi
 Find maximum number	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/find_maximum_number.js) | 🟢 |	
 Print first letter of every word | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/print_first_letter_of_every_word.js) | 🟢 |		
 Reverse string in O(1) space complexity	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/print_first_letter_of_every_word.js) | 🟢 |		
-Display longest name		
+Display longest name | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/display_longest_name.js) | 🟢 |
 String validation		
 Repeat the string		
 Welcome abroad	
