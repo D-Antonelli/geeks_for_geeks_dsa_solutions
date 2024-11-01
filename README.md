@@ -131,11 +131,8 @@ Display longest name | [javascript](https://github.com/D-Antonelli/mentorship_wi
 String validation 		
 Repeat the string	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/repeat_the_string.js) | 🟢 |	
 Remove spaces | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_spaces.js) | 🟢 |			
-Hello World	
-Check string | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_string.js) | 🟢 |
-String validation				
-Contatenate String 
-Is Isogram		
+Check string | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_string.js) | 🟢 |			
+Is Isogram	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_if_a_string_is_isogram_or_not.js) | 🟢 |	
 Check for binary		
 First letter of each word		
 Missing characters in panagram		
