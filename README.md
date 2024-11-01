@@ -133,7 +133,8 @@ Repeat the string
 Welcome abroad	
 Remove spaces		
 Hello World	
-Check string		
+Check string | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_string.js) | 🟢 |
+String validation				
 Contatenate String 
 Is Isogram		
 Check for binary		
