@@ -130,8 +130,7 @@ Reverse string in O(1) space complexity	| [javascript](https://github.com/D-Anto
 Display longest name | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/display_longest_name.js) | 🟢 |
 String validation 		
 Repeat the string	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/repeat_the_string.js) | 🟢 |	
-Welcome abroad	
-Remove spaces		
+Remove spaces | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_spaces.js) | 🟢 |			
 Hello World	
 Check string | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_string.js) | 🟢 |
 String validation				
