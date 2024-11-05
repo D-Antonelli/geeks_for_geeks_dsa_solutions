@@ -133,10 +133,8 @@ Repeat the string	| [javascript](https://github.com/D-Antonelli/mentorship_with_
 Remove spaces | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_spaces.js) | 🟢 |			
 Check string | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_string.js) | 🟢 |			
 Is Isogram	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_if_a_string_is_isogram_or_not.js) | 🟢 |	
-Check for binary  | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_for_binary.js) | 🟢 |	
-First letter of each word		
-Missing characters in panagram		
-Check if b is an anagram of a		
+Check for binary  | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_for_binary.js) | 🟢 |			
+Check if b is an anagram of a | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_if_b_is_an_anagram_of_a.js) | 🟢 |		
 Consonant and vowals check		
 Lower to upper case		
 String validation		
