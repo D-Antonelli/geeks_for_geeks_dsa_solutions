@@ -135,10 +135,8 @@ Check string | [javascript](https://github.com/D-Antonelli/mentorship_with_david
 Is Isogram	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_if_a_string_is_isogram_or_not.js) | 🟢 |	
 Check for binary  | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_for_binary.js) | 🟢 |			
 Check if b is an anagram of a | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/check_if_b_is_an_anagram_of_a.js) | 🟢 |		
-Lower to upper case	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/lower_to_upper_case.js) | 
-String validation		
-C friend function (anagram check)		
-last-index-of-1		
+Lower to upper case	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/lower_to_upper_case.js) | 			
+last-index-of-1	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/last_index_of_one.js) | 	
 Longest substring containg 1		
 Panagram checking		
 Repeating characer first appearance leftmost		
