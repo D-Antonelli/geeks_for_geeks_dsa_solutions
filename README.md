@@ -138,7 +138,7 @@ Check if b is an anagram of a | [javascript](https://github.com/D-Antonelli/ment
 Lower to upper case	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/lower_to_upper_case.js) | 			
 last-index-of-1	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/last_index_of_one.js) | 	
 Longest substring containg 1 | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/longest_substring_containg_1.js)   		
-Panagram checking		
+Panagram checking	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/panagram_checking.js)  	
 Repeating characer first appearance leftmost		
 Uppercase to lowercase		
 Count numnber of words in a string		
