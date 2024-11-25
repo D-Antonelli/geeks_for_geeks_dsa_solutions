@@ -139,14 +139,8 @@ Lower to upper case	| [javascript](https://github.com/D-Antonelli/mentorship_wit
 last-index-of-1	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/last_index_of_one.js) | 	
 Longest substring containg 1 | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/longest_substring_containg_1.js)   		
 Panagram checking	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/panagram_checking.js)  	
-Repeating characer first appearance leftmost		
-Uppercase to lowercase		
-Count numnber of words in a string		
-Repeated chars		
-Count distinct vowels in a string		
-Length of a string		
-Amend the sentece		
-Remove 'b' and 'ac' from given string		
+Repeating characer first appearance leftmost | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/repeated_character.js)  											
+Remove 'b' and 'ac' from given string	Repeating characer first appearance leftmost | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_'b'_and_'ac'_from_given_string.js)	
 String sort (Using Quick-sort)		
 Vowels in string		
 Check if a string is Isogram or not		
