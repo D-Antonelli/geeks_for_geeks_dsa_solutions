@@ -141,7 +141,7 @@ Longest substring containg 1 | [javascript](https://github.com/D-Antonelli/mento
 Panagram checking	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/panagram_checking.js)  	
 Repeating characer first appearance leftmost | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/repeated_character.js)  											
 Remove 'b' and 'ac' from given string	Repeating characer first appearance leftmost | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_'b'_and_'ac'_from_given_string.js)	
-String sort (Using Quick-sort)		
+String sort | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/string_sort.js)			
 Vowels in string		
 Check if a string is Isogram or not		
 Reverse words of a given string		
