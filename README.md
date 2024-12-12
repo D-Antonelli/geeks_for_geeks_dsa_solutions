@@ -143,6 +143,5 @@ Repeating characer first appearance leftmost | [javascript](https://github.com/D
 Remove 'b' and 'ac' from given string	Repeating characer first appearance leftmost | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/remove_'b'_and_'ac'_from_given_string.js)	
 String sort | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/string_sort.js)			
 Vowel or Not	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/vowel_or_not.js)		
-Reverse words of a given string	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/reverse_words_of_a_given_string.js)		
-Given two strings, check if one is the anagram of another		
-First and second smallest element		
+Reverse words of a given string	| [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/reverse_words_of_a_given_string.js)				
+First and second smallest element | [javascript](https://github.com/D-Antonelli/mentorship_with_davide/blob/main/javascript/first_and_second_smallest_element.js)	
